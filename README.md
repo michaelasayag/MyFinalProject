@@ -1,4 +1,4 @@
-## **Final Project Automation**
+## **Final Project FullStack QA Automation**
 Short Video - Demonstration: (click on image to play)
 [![Short Video - Demonstration](https://i.imgur.com/8NZ2zWs.png)](https://youtu.be/Kf18-mCF3Ro)
 
